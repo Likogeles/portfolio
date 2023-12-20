@@ -19,7 +19,6 @@ projects portfolio of the Likogeles
 
 9) https://github.com/Likogeles/Secret_Ded_Moroz_Bot
 
-
 10) https://github.com/Likogeles/AnonimousBot + https://github.com/Likogeles/AnonimousBotPlayTest
 
 11) https://github.com/Likogeles/TechnoslavBot
